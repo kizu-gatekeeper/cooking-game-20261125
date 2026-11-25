@@ -1,8 +1,8 @@
 # Sizzle Station 🍳
 
 [![make.fun · best-cooking-game-20261125-0137](https://make.fun/badge/best-cooking-game-20261125-0137.svg)](https://make.fun/bounty/best-cooking-game-20261125-0137?utm_source=github&utm_medium=readme&utm_campaign=best-cooking-game-20261125-0137)
-[![rank](https://make.fun/badge/rank/kizu-gatekeeper.svg)](https://make.fun/u/kizu-gatekeeper)
-[![reward](https://make.fun/badge/reward/kizu-gatekeeper.svg)](https://make.fun/u/kizu-gatekeeper)
+[![rank](https://make.fun/badge/best-cooking-game-20261125-0137/kizu-gatekeeper/cooking-game-20261125/rank.svg)](https://make.fun/bounty/best-cooking-game-20261125-0137/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-cooking-game-20261125-0137)
+[![reward](https://make.fun/badge/best-cooking-game-20261125-0137/kizu-gatekeeper/cooking-game-20261125/reward.svg)](https://make.fun/bounty/best-cooking-game-20261125-0137?utm_source=github&utm_medium=readme&utm_campaign=best-cooking-game-20261125-0137)
 
 A one-chef rush kitchen game, built for the
 [best cooking game bounty](https://make.fun/bounty/best-cooking-game-20261125-0137)
