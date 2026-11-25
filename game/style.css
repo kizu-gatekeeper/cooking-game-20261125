@@ -1,0 +1,31 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  background: #241a12;
+  height: 100%;
+  font-family: "Trebuchet MS", Verdana, sans-serif;
+}
+
+#stage {
+  width: 1280px;
+  margin: 0 auto;
+  padding-top: 0;
+}
+
+#game {
+  display: block;
+  width: 1280px;
+  height: 800px;
+  border-radius: 10px;
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.55);
+  background: #3a2a1c;
+  cursor: pointer;
+}
+
+#hint {
+  color: #e8d9b8;
+  text-align: center;
+  font-size: 14px;
+  padding: 8px 0 12px;
+  letter-spacing: 0.3px;
+}
